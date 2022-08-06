@@ -1,0 +1,43 @@
+{
+    "name": "shiba-inu",
+    "tag": "SHIB",
+    "currencyValue": "$0.00001205",
+    "lastRate": "0.67%",
+    "rank": 16,
+    "type": "Token",
+    "watchListCount": 1759956,
+    "isFavorite": true,
+    "graph": "https://i.imgur.com/WMwIco5.png",
+    "scenarios": [
+        {
+            "scenario": "Market Cap",
+            "value": "$6,616,533,153",
+            "rate": "0.77%"
+        },
+        {
+            "scenario": "Fully Diluted Market Cap",
+            "value": "$7,109,808,754",
+            "rate": "0.77%"
+        },
+        {
+            "scenario": "Volume",
+            "value": "$296,358,710",
+            "rate": "-13.61%"
+        },
+        {
+            "scenario": "Market Cap",
+            "value": "$6,616,533,153",
+            "rate": "0.77%"
+        },
+        {
+            "scenario": "Fully Diluted Market Cap",
+            "value": "$7,109,808,754",
+            "rate": "0.77%"
+        },
+        {
+            "scenario": "Volume",
+            "value": "$296,358,710",
+            "rate": "-13.61%"
+        }
+    ]
+}
