@@ -1,0 +1,43 @@
+{
+    "name": "tether",
+    "tag": "USDT",
+    "currencyValue": "$1.00",
+    "lastRate": "0.01%",
+    "rank": 3,
+    "type": "Token",
+    "watchListCount": 1216819,
+    "isFavorite": false,
+    "graph": "https://i.imgur.com/KODC2M0.png",
+    "scenarios": [
+        {
+            "scenario": "Market Cap",
+            "value": "$66,480,938,280",
+            "rate": "-0.01%"
+        },
+        {
+            "scenario": "Fully Diluted Market Cap",
+            "value": "$69,164,028,803",
+            "rate": "0.01%"
+        },
+        {
+            "scenario": "Volume",
+            "value": "$36,133,096,441",
+            "rate": "-25.81%"
+        },
+                {
+            "scenario": "Market Cap",
+            "value": "$66,480,938,280",
+            "rate": "-0.01%"
+        },
+        {
+            "scenario": "Fully Diluted Market Cap",
+            "value": "$69,164,028,803",
+            "rate": "0.01%"
+        },
+        {
+            "scenario": "Volume",
+            "value": "$36,133,096,441",
+            "rate": "-25.81%"
+        }
+    ]
+}
