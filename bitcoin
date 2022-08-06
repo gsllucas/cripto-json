@@ -1,0 +1,43 @@
+{
+    "name": "bitcoin",
+    "tag": "BTC",
+    "currencyValue": "$23,289.34",
+    "lastRate": "2,79%",
+    "rank": 1,
+    "type": "Coin",
+    "watchListCount": 3384458,
+    "isFavorite": true,
+    "graph": "https://i.imgur.com/iE0AqOH.png",
+    "scenarios": [
+        {
+            "scenario": "Market Cap",
+            "value": "$445,672,651,577",
+            "rate": "2.79%"
+        },
+        {
+            "scenario": "Fully Diluted Market Cap",
+            "value": "$488,993,110,155",
+            "rate": "2.79%"
+        },
+                {
+            "scenario": "Volume",
+            "value": "$29,198,157,719",
+            "rate": "17.75%"
+        },
+                {
+            "scenario": "Market Cap",
+            "value": "$445,672,651,577",
+            "rate": "2.79%"
+        },
+        {
+            "scenario": "Fully Diluted Market Cap",
+            "value": "$488,993,110,155",
+            "rate": "2.79%"
+        },
+        {
+            "scenario": "Volume",
+            "value": "$29,198,157,719",
+            "rate": "17.75%"
+        }
+    ]
+}
