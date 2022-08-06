@@ -1,0 +1,43 @@
+{
+    "name": "ethereum",
+    "tag": "ETH",
+    "currencyValue": "$1,708.47",
+    "lastRate": "2.17%",
+    "rank": 2,
+    "type": "Coin",
+    "watchListCount": 2868418,
+    "isFavorite": true,
+    "graph": "https://i.imgur.com/xHMqyU1.png",
+    "scenarios": [
+        {
+            "scenario": "Market Cap",
+            "value": "$208,294,180,217",
+            "rate": "2.37%"
+        },
+        {
+            "scenario": "Fully Diluted Market Cap",
+            "value": "$208,065,648,922",
+            "rate": "2.39%"
+        },
+        {
+            "scenario": "Volume",
+            "value": "$13,292,059,925",
+            "rate": "-23.25%"
+        },
+        {
+            "scenario": "Market Cap",
+            "value": "$208,294,180,217",
+            "rate": "2.37%"
+        },
+        {
+            "scenario": "Fully Diluted Market Cap",
+            "value": "$208,065,648,922",
+            "rate": "2.39%"
+        },
+        {
+            "scenario": "Volume",
+            "value": "$13,292,059,925",
+            "rate": "-23.25%"
+        }
+    ]
+}
