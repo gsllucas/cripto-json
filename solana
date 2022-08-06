@@ -1,0 +1,43 @@
+{
+    "name": "solana",
+    "tag": "SOL",
+    "currencyValue": "$40.45",
+    "lastRate": "1.31%",
+    "rank": 9,
+    "type": "Coin",
+    "watchListCount": 1689524,
+    "isFavorite": false,
+    "graph": "https://i.imgur.com/iE0AqOH.png",
+    "scenarios": [
+        {
+            "scenario": "Market Cap",
+            "value": "$14,018,545,077",
+            "rate": "1.42%"
+        },
+        {
+            "scenario": "Fully Diluted Market Cap",
+            "value": "$20,708,161,267",
+            "rate": "1.42%"
+        },
+        {
+            "scenario": "Volume",
+            "value": "$733,227,504",
+            "rate": "36.27%"
+        },
+                {
+            "scenario": "Market Cap",
+            "value": "$14,018,545,077",
+            "rate": "1.42%"
+        },
+        {
+            "scenario": "Fully Diluted Market Cap",
+            "value": "$20,708,161,267",
+            "rate": "1.42%"
+        },
+        {
+            "scenario": "Volume",
+            "value": "$733,227,504",
+            "rate": "36.27%"
+        }
+    ]
+}
